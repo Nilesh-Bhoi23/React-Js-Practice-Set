@@ -4,3 +4,4 @@ Phase -1 Fundamental of React
   - Promises, Async/Await
   - Arrow Functions
   - Spread / Reat Opratores
+  - Distructing etc.
