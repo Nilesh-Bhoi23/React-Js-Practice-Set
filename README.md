@@ -7,4 +7,4 @@ Phase -1 Fundamental of React
   - Distructing etc.
 * React Basics :
   - JSX component
-  - 
+  - State , Props
