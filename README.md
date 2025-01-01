@@ -5,3 +5,6 @@ Phase -1 Fundamental of React
   - Arrow Functions
   - Spread / Reat Opratores
   - Distructing etc.
+* React Basics :
+  - JSX component
+  - 
