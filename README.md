@@ -1,5 +1,5 @@
-<i>
 # React-Js-Practice-Set
+<i>
 Phase -1 Fundamental of React
 * Javscript es6+:
   - Promises, Async/Await
