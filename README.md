@@ -1,14 +1,14 @@
 # React-Js-Practice-Set
-<i>
-Phase -1 Fundamental of React
-* Javscript es6+:
-  - Promises, Async/Await
-  - Arrow Functions
-  - Spread / Rest Opratores
-  - Distructing etc.
-* React Basics :
-  - JSX component
-  - State , Props
+<i> <br>
+Phase -1 Fundamental of React     <br>
+* Javscript es6+:                 <br>
+  - Promises, Async/Await         <br>
+  - Arrow Functions               <br>
+  - Spread / Rest Opratores       <br>
+  - Distructing etc.              <br>
+* React Basics :                  <br>    
+  - JSX component                 <br>
+  - State , Props  
   - Hooks (useState , useEffect)
   - Conditional redering Etc.
 </i> 
