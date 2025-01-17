@@ -13,3 +13,4 @@ Phase -1 Fundamental of React     <br>
   - Conditional redering Etc.
 </i> 
 Hooks - 1) useState 
+        2) useEffect
