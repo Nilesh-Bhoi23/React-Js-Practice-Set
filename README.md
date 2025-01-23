@@ -19,3 +19,4 @@ Phase -1 Fundamental of React         <br>
 3) useContext                 <br>
 4) useReducer                 <br>
 5) useRef                     <br>
+6) useMemo                    <br>
