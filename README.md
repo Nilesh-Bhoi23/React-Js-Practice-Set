@@ -22,5 +22,5 @@ Phase -1 Fundamental of React         <br>
 6) useMemo                    <br>
 7) useCallback                <br>
 8) useLayoutEffect            <br>
-9) useImperativeHandle        
+9) useImperativeHandle        <br>
   
