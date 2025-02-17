@@ -24,3 +24,6 @@ Phase -1 Fundamental of React         <br>
 8) useLayoutEffect            <br>
 9) useImperativeHandle        <br>
 10) useFetch                  <br>
+
+     <br>
+11) Promises
