@@ -27,4 +27,6 @@ Phase -1 Fundamental of React         <br>
 
      <br>
 11) Promises
-12) Arrow functions           <br>
+12) Arrow functions
+13) SpreadRestOperators      <br>
+
