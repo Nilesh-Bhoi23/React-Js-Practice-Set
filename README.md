@@ -26,7 +26,7 @@ Phase -1 Fundamental of React         <br>
 10) useFetch                  <br>
 
      <br>
-11) Promises
-12) Arrow functions
-13) SpreadRestOperators      <br>
+11) Promises                  <br>
+12) Arrow functions           <br> 
+13) SpreadRestOperators       <br>
 
